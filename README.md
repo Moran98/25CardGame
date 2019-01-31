@@ -1,3 +1,8 @@
 ##  25CardGame 
 This is an incomplete submission of the card game 25 for Procedural Programming Project - 2nd Year Sem1
-* Game runs as far as dealing cards randomly and selecting a card to play.
+
+## Functionality
+* Deals Cards to numOfPlayers.
+* Deals random cards to players.
+* Player can select a card to play.
+* Specific cards have stronger chance of winning depending on the Trump card dealt.
